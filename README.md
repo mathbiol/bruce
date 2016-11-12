@@ -1,2 +1,3 @@
 # bruce
-from Cincinnati 
+
+live at https://mathbiol.github.io/bruce

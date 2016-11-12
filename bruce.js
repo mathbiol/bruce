@@ -13,3 +13,10 @@ bruce.entrez.esearch=function(){
   var url0='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
   //db=<database>&term=<query>
 }
+
+/* more usecases
+
+Look for concept node "increased mortality induced by gama radiation"
+== increase likelook of tumor kill
+
+*/
