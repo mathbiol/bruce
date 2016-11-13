@@ -20,3 +20,18 @@ Look for concept node "increased mortality induced by gama radiation"
 == increase likelook of tumor kill
 
 */
+
+
+// Load CellCycleRegulatoryNetwork.json
+loadGraph = function(cb){
+  if(cb){
+    return $.getJSON('CellCycleRegulatoryNetwork.json',cb)
+  }else{
+    return $.getJSON('CellCycleRegulatoryNetwork.json')
+  }
+}
+loadGraph().then(function(g){
+  var net ={}
+  
+  4
+})

@@ -1,4 +1,4 @@
-console.log('entrez.js loaded')
+console.log('entrez.js loaded, you could try, for example, entrez.esearch_ClinVar()')
 
 // JS client for Entrez utils
 // 
